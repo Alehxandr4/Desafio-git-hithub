@@ -13,4 +13,4 @@
 - git remote add origin + link (conexão do repositorio local para p github)
 - git push -u origin main(empurrão nos commit que estão no repositorio local para o repositorio remoto)
 - git add. (Todos arquivos criados mandar para área staged)
-- git push main (usando quando só é feito alterações)
+- git push origin main (usando quando só é feito alterações)
