@@ -1,7 +1,7 @@
 ***CLIENT X SERVERS***
 
-*_Client:_* Dispositivo que está consumindo a informação da internet 
-*_Servidor:_* Serve as informações aos clientes
+*Client:* Dispositivo que está consumindo a informação da internet 
+*Servidor:* Serve as informações aos clientes
 
 _Arquivos estáticos:_ HTML, Css, JavaScript, imagans 
 _Cache:_ Gerabe armazena os arquivos eatáticos (gravando na máquina do cliente)
