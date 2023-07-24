@@ -1,16 +1,23 @@
 ***CLIENT X SERVERS***
 
 *Client:* Dispositivo que está consumindo a informação da internet 
+
 *Servidor:* Serve as informações aos clientes
 
 _Arquivos estáticos:_ HTML, Css, JavaScript, imagans 
+
 _Cache:_ Gerabe armazena os arquivos eatáticos (gravando na máquina do cliente)
+
 _Navegadores:_ Responsavel por interpretar os arquivos 
+
 _W3C:_ Define o padrão dos navegadores 
-*_Navegadores=brower_*
+
+***_Navegadores=brower_***
+
 _Aplicação da Web:_ São soluções criadas que possuem a internet como meio de comunicação entre client x server, não sendo necessário a sua instalação
 
 ***SERVIDORES***
+
 *_Tipos:_*
 - Arquivos 
 - Segurança 
