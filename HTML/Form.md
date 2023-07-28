@@ -9,9 +9,13 @@
   - tag < button >
 
 ***Tag < form >***
+
 Essa tag é usada para criar o formulário e é a responsável por conter os demais elementos.
+
 ***Tag < input >***
+
 É o comando mais usado, ele pode ser exebido de várias maneira, dependendo do type do atributo
+
 - ***< input type="text" >*** define um campo de entrada de texto de linha única
 - ***< input type="password" >*** define um campo de senha
 - ***< input type="checkbox" >*** define uma caixa de seleção 
@@ -27,6 +31,7 @@ Essa tag é usada para criar o formulário e é a responsável por conter os dem
 - O ***< input type="submit" >*** define um botão para enviar os dados do formulário para um manipulador de formulário.
   
   ***_Atributos do < input >_***
+
  ***Value:*** É atributo de entrada especifica um valor inicial para um campo de entrada
  ***Disabled:***Um campo de entrada desabilitado é inutilizável e não clicável.
  ***Size:***É atributo de entrada especifica a largura visível, em caracteres, de um campo de entrada
@@ -35,6 +40,7 @@ Essa tag é usada para criar o formulário e é a responsável por conter os dem
  ***multiple:*** É atributo de entrada especifica que o usuário pode inserir mais de um valor em um campo de entrada.
 
  ***_Atriputos < form >_***
+
  ***Action:*** Este atributo define para onde a informações devem a ser enviadas.
  ***method:*** Este atributo especifica o método HTTP a ser usado ao enviar os dados do formulário, ele normalmente é acompanhado pelo "post" e pelo "get"
 
